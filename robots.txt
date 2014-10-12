@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://aradreed.github.io/sitemap.xml 
+Sitemap: http://aradreed.me/sitemap.xml 
