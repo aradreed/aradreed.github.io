@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://aradreed.github.io/sitemap.xml 
