@@ -3,10 +3,10 @@ layout: post
 title: "Welcome to my Site"
 date: 2014-10-15 11:45:07 -0700
 comments: true
-categories: 
+categories: me
 ---
 
-Welcome to my new website! I'm Arad Reed, a current first-year in Computer Science at the University of California - Santa Barbara. Originally from southwest Missouri, I'm trying to leave an impression in many places. 
+Welcome to my new website! I'm Arad Reed, a current first-year in Computer Science at the University of California - Santa Barbara. Originally from southwest Missouri, I'm trying to leave an impression in many places. <!-- more -->
 
 I am a passionate programmer and overall tech enthusiast. I've developed in many different languages and for a variety of platforms. On my <a href="{{ root_url }}/projects/">projects page</a>, you can see some of what I've worked on. The list includes iOS devices, Android devices, Windows computers, and the Pebble smartwatch. Some of my favorite programming languages include Ruby, C++, and Objective - C. 
 
