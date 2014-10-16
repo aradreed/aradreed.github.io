@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Free | Arad Reed]]></title>
+  <link href="http://aradreed.me/blog/categories/free/atom.xml" rel="self"/>
+  <link href="http://aradreed.me/"/>
+  <updated>2014-10-16T11:36:07-07:00</updated>
+  <id>http://aradreed.me/</id>
+  <author>
+    <name><![CDATA[Arad Reed]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Free Student Developer Pack]]></title>
+    <link href="http://aradreed.me/blog/2014/10/16/free-student-developer-pack/"/>
+    <updated>2014-10-16T11:10:58-07:00</updated>
+    <id>http://aradreed.me/blog/2014/10/16/free-student-developer-pack</id>
+    <content type="html"><![CDATA[<p>The costs of being a college student are tremendous in both time and money. However, there is the occasional perk for students to take advantage of. One such perk for student developers is being offered by GitHub.</p>
+
+<p>GitHub is offering free tools for developers that can prove their student enrollment by providing either a .edu email, school ID, transcript, or any other reasonable proof of affiliation. The <a href=https://education.github.com>Student Developer Pack</a> comes with many different and very useful resources for a developer. You can get access to the Atom text editor (which is already free), a free Micro account on GitHub with 5 private repositories, a .me domain from namecheap free for one year, a Screenhero account, a student plan from SendGrid (15,000 free emails/month), and a lot more! If you&rsquo;re a game developer, you can also get Unreal Engine 4 for free!</p>
+
+<p>If you&rsquo;re a student developer, make sure that you don&rsquo;t miss out on these rare perks. Take these tools and make something cool!</p>
+]]></content>
+  </entry>
+  
+</feed>
