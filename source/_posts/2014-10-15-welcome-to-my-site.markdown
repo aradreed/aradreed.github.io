@@ -4,6 +4,8 @@ title: "Welcome to my Site"
 date: 2014-10-15 11:45:07 -0700
 comments: true
 categories: me
+keywords: arad reed, missouri, programmer, student, tech, video games, nintendo, android, ios, ruby, c
+description: Welcome to my personal website
 ---
 
 Welcome to my new website! I'm Arad Reed, a current first-year in Computer Science at the University of California - Santa Barbara. Originally from southwest Missouri, I'm trying to leave an impression in many places. <!-- more -->

@@ -8,6 +8,7 @@ subtitle: Software and Game Developer
 author: Arad Reed
 simple_search: https://www.google.com/search
 description: The personal website for Arad Reed. 
+keywords: "developer, student, Arad Reed, coding, programming, video games, gaming"
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -97,5 +98,7 @@ disqus_show_comment_count: false
 # Google Analytics
 google_analytics_tracking_id: UA-55812708-1
 
-# Facebook Like
+# Facebooks
 facebook_like: true
+facebook_app_id: 1336355529
+facebook_page: https://www.facebook.com/arad.reed

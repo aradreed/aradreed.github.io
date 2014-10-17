@@ -3,7 +3,9 @@ layout: post
 title: "Free Student Developer Pack"
 date: 2014-10-16 11:10:58 -0700
 comments: true
-categories: [development, student, free]
+categories: [development, student, free, GitHub]
+keywords: github, free, student, developer, sendgrid, namecheap, unreal engine, screenhero
+description: Get a free Student Developer Pack from GitHub
 ---
 
 The costs of being a college student are tremendous in both time and money. However, there is the occasional perk for students to take advantage of. One such perk for student developers is being offered by GitHub. 
