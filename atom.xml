@@ -4,7 +4,7 @@
   <title><![CDATA[Arad Reed]]></title>
   <link href="http://aradreed.me/atom.xml" rel="self"/>
   <link href="http://aradreed.me/"/>
-  <updated>2014-11-16T12:15:58-08:00</updated>
+  <updated>2014-11-18T21:08:27-08:00</updated>
   <id>http://aradreed.me/</id>
   <author>
     <name><![CDATA[Arad Reed]]></name>
@@ -12,6 +12,36 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Yellow Submarine Animation]]></title>
+    <link href="http://aradreed.me/blog/2014/11/18/yellow-submarine-animation/"/>
+    <updated>2014-11-18T19:37:49-08:00</updated>
+    <id>http://aradreed.me/blog/2014/11/18/yellow-submarine-animation</id>
+    <content type="html"><![CDATA[<p>Recently, I&rsquo;ve started learning 3D animation using Blender. My first lesson is now complete, and I&rsquo;m excited about continuing through the lessons. The project for the first lesson was to build the famous yellow submarine, as seen on the Beatles album. <!-- more --></p>
+
+<p>I really enjoyed working on this project, but it definitely took quite a bit of time. I took screenshots as I made progress, and I&rsquo;ve posted the finished animation on Youtube. Below are my screenshots, and I&rsquo;ve embedded the completed animation at the bottom.</p>
+
+<p><img class="noBorder center" src="http://aradreed.me/images/posts/11-18-2014/progress1.png" title="The yellow submarine in progress" ></p>
+
+<p><img class="noBorder center" src="http://aradreed.me/images/posts/11-18-2014/progress2.png" title="The yellow submarine in progress" ></p>
+
+<p><img class="noBorder center" src="http://aradreed.me/images/posts/11-18-2014/progress3.png" title="The yellow submarine in progress" ></p>
+
+<p><img class="noBorder center" src="http://aradreed.me/images/posts/11-18-2014/progress4.png" title="The yellow submarine in progress" ></p>
+
+<p><img class="noBorder center" src="http://aradreed.me/images/posts/11-18-2014/progress5.png" title="The yellow submarine in progress" ></p>
+
+<p><img class="noBorder center" src="http://aradreed.me/images/posts/11-18-2014/yellow-submarine.png" title="The finished yellow submarine model" ></p>
+
+<p>And here is the finished animation! Sure was a lot of work for just 5 seconds of video.</p>
+
+<div align=center>
+<iframe class="noBorder" width="560" height="315" src="//www.youtube.com/embed/Gko6Rfti4QY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[3D Animation]]></title>
