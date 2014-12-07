@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: 3d Animation | Arad Reed]]></title>
-  <link href="http://aradreed.me/blog/categories/3d-animation/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 3d Modeling | Arad Reed]]></title>
+  <link href="http://aradreed.me/blog/categories/3d-modeling/atom.xml" rel="self"/>
   <link href="http://aradreed.me/"/>
   <updated>2014-12-06T20:29:48-08:00</updated>
   <id>http://aradreed.me/</id>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Castle 3D Model]]></title>
+    <link href="http://aradreed.me/blog/2014/12/06/castle-3d-model/"/>
+    <updated>2014-12-06T20:09:43-08:00</updated>
+    <id>http://aradreed.me/blog/2014/12/06/castle-3d-model</id>
+    <content type="html"><![CDATA[<p>I haven&rsquo;t had a lot of time to work on my personal projects lately, and I imagine that I&rsquo;ll have even less time soon with finals coming up. However, I had an extreme urge to create something today, and it&rsquo;s about time I finished up lesson 2 of the Blender tutorials. <!-- more --></p>
+
+<p>This lesson had me building a simple castle. It was, thankfully, a LOT shorter than building the yellow submarine but still very time-consuming. Below are the screenshots of my progress and the final result at the bottom. No animation this time.</p>
+
+<p><img class="noBorder center" src="/images/posts/12-6-2014/progress1.png" title="The castle in progress" ></p>
+
+<p><img class="noBorder center" src="/images/posts/12-6-2014/progress2.png" title="The castle in progress" ></p>
+
+<p><img class="noBorder center" src="/images/posts/12-6-2014/progress3.png" title="The castle in progress" ></p>
+
+<p><img class="noBorder center" src="/images/posts/12-6-2014/progress4.png" title="The castle in progress" ></p>
+
+<p><img class="noBorder center" src="/images/posts/12-6-2014/progress5.png" title="The castle in progress" ></p>
+
+<p><img class="noBorder center" src="/images/posts/12-6-2014/castle.png" title="The finished castle model" ></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Yellow Submarine Animation]]></title>
