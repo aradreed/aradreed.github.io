@@ -3,7 +3,7 @@ layout: post
 title: "3D Animation"
 date: 2014-11-16 10:58:32 -0800
 comments: true
-categories: [3D animation, free]
+categories: [3D animation, free, 3D modeling]
 keywords: blender, 3d, animation, modeling, autodesk, maya, 3dsmax, tutorials
 description: Overview of 3D animation resources and some of my early work
 

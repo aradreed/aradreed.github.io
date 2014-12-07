@@ -3,9 +3,9 @@ layout: post
 title: "Yellow Submarine Animation"
 date: 2014-11-18 19:37:49 -0800
 comments: true
-categories: [3D animation]
+categories: [3D animation, 3d modeling]
 keywords: blender, 3d, animation, modeling, tutorials, yellow submarine, beatles
-description: The outcome of my first 3D animation
+description: The outcome of my first 3D animation, the famous yellow submarine from the Beatles
 
 facebook:
     image: http://aradreed.me/images/posts/11-18-2014/yellow-submarine.png
