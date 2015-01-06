@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 3d Modeling | Arad Reed]]></title>
   <link href="http://aradreed.me/blog/categories/3d-modeling/atom.xml" rel="self"/>
   <link href="http://aradreed.me/"/>
-  <updated>2014-12-17T11:03:06-08:00</updated>
+  <updated>2015-01-05T20:57:09-08:00</updated>
   <id>http://aradreed.me/</id>
   <author>
     <name><![CDATA[Arad Reed]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Winter Break 3D Models]]></title>
+    <link href="http://aradreed.me/blog/2015/01/05/winter-break-3d-models/"/>
+    <updated>2015-01-05T20:27:23-08:00</updated>
+    <id>http://aradreed.me/blog/2015/01/05/winter-break-3d-models</id>
+    <content type="html"><![CDATA[<p>So my winter break ended yesterday, and my classes have started up again. I wasn&rsquo;t nearly as productive as I thought I was going to be, but I did create a few 3D models on my own and started on lesson 4 of the tutorials. Each of my models are video game related, and I hope that you recognize them. If not, then I question your taste in video games.</p>
+
+<p><img class="noBorder center" src="/images/posts/1-5-2015/triforce.png" title="The triforce from Legend of Zelda!" >
+Here is the glorious triforce from the Legend of Zelda. The style was based off of the version in The Legend of Zelda: Wind Waker, when it can be seen at the end of the game. My model may be a little thin, but I think it looks good besides that.</p>
+
+<p><img class="noBorder center" src="/images/posts/1-5-2015/pokeball.png" title="A Pokeball from Pokemon!" >
+Gotta catch&#8217;em all! A common run-of-the-mill pokeball from Pokemon. This is my favorite of the models I made during the break. It looks just so crisp and beautiful to me, and I really enjoyed making it.</p>
+
+<p><img class="noBorder center" src="/images/posts/1-5-2015/rupees.png" title="Some rupees from Legend of Zelda!" >
+Rupees! The famous currency of Hyrule in the Zelda games. Who knows what the value of these rupees adds up to?</p>
+
+<p>If you have any ideas about some cool things I should model, let me know! Keep in mind, I haven&rsquo;t passed the simple barrier quite yet though.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Shark and Sword 3D Models]]></title>
@@ -109,34 +129,6 @@
 <iframe class="noBorder" width="560" height="315" src="//www.youtube.com/embed/Gko6Rfti4QY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[3D Animation]]></title>
-    <link href="http://aradreed.me/blog/2014/11/16/3d-animation/"/>
-    <updated>2014-11-16T10:58:32-08:00</updated>
-    <id>http://aradreed.me/blog/2014/11/16/3d-animation</id>
-    <content type="html"><![CDATA[<p>3D design and animation is another one of those topics that I&rsquo;ve wanted to learn about for a long time. It is quite a time-consuming activity though, so it was hard to keep up. However, I&rsquo;ve decided I want to take another try at learning 3D modeling and animation. <!-- more --></p>
-
-<p>The great thing about 3D animation is that there is that there are quite a few good choices for software. The bad thing is that many of them are expensive, especially just for learning or using as a hobby.</p>
-
-<p>If you&rsquo;re a student, one great option is to <a href="http://www.autodesk.com/education/free-software/all">get a free license</a> for some software from Autodesk. This software includes Maya and 3DSMax, which are both industry-standard software for 3D modeling and animation. I am a student, but I didn&rsquo;t take this option due to the limits on the license (expires and non-commercial use only). While I don&rsquo;t plan to make any commercial animations, I just like to have that extra safety net when possible.</p>
-
-<p><img class="noBorder center" src="/images/posts/11-16-2014/blender-logo.png" title="Blender" ></p>
-
-<p>Another great option is to use the open-source Blender. It is completely free and can also be used for commercial use. There are plenty of resources to learn animation with Blender all over Youtube, the Blender docs, and many other places.</p>
-
-<p><img class="noBorder center" src="/images/posts/11-16-2014/simpleman.jpg" title="Simple Man Model" >
-A good place to learn Blender is the wikibook, <a href="http://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro">Blender 3D: Noob to Pro</a>. I went through a little bit of this about a year ago, but it is very long and requires a lot of reading. However, it is definitely very helpful and covers a lot of material. The models here are ones that I created while going through this book. There were many more, but I didn&rsquo;t get as far in the book as I would have liked. <br>
-<img class="noBorder left" src="/images/posts/11-16-2014/house.png" title="House Model" >
-<img class="noBorder right" src="/images/posts/11-16-2014/beachball.jpg" title="Beach Ball Model" ></p>
-
-<p><br><br></p>
-
-<p>This time, I&rsquo;m trying out the <a href="http://gryllus.net/Blender/3D.html">Blender 3D Design Course</a> from Neal Hirsig. I find this to be a lot quicker and easier to manage on a time-constricted schedule. So far, the videos are pretty short and the tutorials are very good.</p>
-
-<p>I&rsquo;ve already completed the first lesson and will be posting my results of that soon. Hopefully this time, I can keep up with learning 3D animation (thank goodness for weekends).</p>
 ]]></content>
   </entry>
   
