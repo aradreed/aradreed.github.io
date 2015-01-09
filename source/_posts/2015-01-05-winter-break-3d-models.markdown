@@ -8,10 +8,10 @@ keywords: blender, 3d, animation, modeling, zelda, pokemon, ball, textured, rupe
 description: A glimpse at some of the 3D models I created over my (terribly short) winter break
 
 facebook:
-    image: http://aradreed.me/images/posts/12-17-2014/triforce.png
+    image: http://aradreed.me/images/posts/1-5-2015/triforce.png
 ---
 
-So my winter break ended yesterday, and my classes have started up again. I wasn't nearly as productive as I thought I was going to be, but I did create a few 3D models on my own and started on lesson 4 of the tutorials. Each of my models are video game related, and I hope that you recognize them. If not, then I question your taste in video games. 
+So my winter break ended yesterday, and my classes have started up again. I wasn't nearly as productive as I thought I was going to be, but I did create a few 3D models on my own and started on lesson 4 of the tutorials. Each of my models are video game related, and I hope that you recognize them. If not, then I question your taste in video games. <!-- more -->
 
 {% img noBorder center /images/posts/1-5-2015/triforce.png  The triforce from Legend of Zelda! %}
 Here is the glorious triforce from the Legend of Zelda. The style was based off of the version in The Legend of Zelda: Wind Waker, when it can be seen at the end of the game. My model may be a little thin, but I think it looks good besides that. 
