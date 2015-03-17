@@ -1,0 +1,32 @@
+---
+layout: page
+title: "Cipher Text"
+comments: true
+sharing: true
+footer: true
+description: Encode and decode your text using the Caesar Cipher
+keywords: caesar, cipher, key, encrypt, decrypt, encode, decode, text
+
+facebook:
+    image: http://aradreed.me/images/logo.jpg
+
+---
+
+<script src="./javascripts/cipher.js"></script>
+
+<style type="text/css">
+textarea {
+   font-size: 20pt;
+   font-family: Arial;
+} 
+</style>
+
+
+<center><textarea id="CaesarText" name="Text" rows="10" cols="50" wrap="soft"></textarea>
+	
+<br> 
+
+Key: <select id="KeyValue"></select>
+
+<button type="button" onclick="cipher('cipher')">Cipher Text</button>
+<button type="button" onclick="cipher('decipher')">Decipher Text</button>
