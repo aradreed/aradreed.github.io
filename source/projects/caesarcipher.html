@@ -12,7 +12,7 @@ facebook:
 
 ---
 
-<script src="../javascripts/cipher.js"></script>
+<script src="../javascripts/caesarCipher.js"></script>
 
 <style type="text/css">
 textarea {
@@ -21,12 +21,16 @@ textarea {
 } 
 </style>
 
-Enter your text below and give a key to either encrypt or decrypt the text using a <a href="http://en.wikipedia.org/wiki/Caesar_cipher" target="_blank">Caesar Cipher</a>. 
-<center><textarea id="CaesarText" name="Text" rows="10" cols="50" wrap="soft"></textarea>
-	
+Enter your text below and give a key to either encrypt or decrypt the text using a <a href="http://en.wikipedia.org/wiki/Caesar_cipher" target="_blank">Caesar Cipher</a>.
+
 <br> 
+<center>
+	<textarea id="CaesarText" name="Text" rows="10" cols="50" wrap="soft"></textarea>
+	
+	<br> 
 
-Key: <select id="KeyValue"></select>
+	Key: <select id="KeyValue"></select>
 
-<button type="button" onclick="cipher('cipher')">Cipher Text</button>
-<button type="button" onclick="cipher('decipher')">Decipher Text</button>
+	<button type="button" onclick="cipher('cipher')">Cipher Text</button>
+	<button type="button" onclick="cipher('decipher')">Decipher Text</button>
+</center>

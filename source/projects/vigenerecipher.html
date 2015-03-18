@@ -1,0 +1,39 @@
+---
+layout: page
+title: "Vigenere Cipher"
+comments: true
+sharing: true
+footer: true
+description: Encode and decode your text using the Vigenere Cipher
+keywords: vigenere, cipher, key, encrypt, decrypt, encode, decode, text
+
+facebook:
+    image: http://aradreed.me/images/logo.jpg
+
+---
+
+<script src="../javascripts/vigenereCipher.js"></script>
+
+		
+<style type="text/css">
+textarea {
+   font-size: 20pt;
+   font-family: Arial;
+} 
+</style>
+
+<center>
+	Enter your text below and give a string key to either encrypt or decrypt the text using a <a href="http://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher" target="_blank">Vigenere Cipher</a>. 
+	
+	<br>
+	<textarea id="VigenereText" name="Text" rows="10" cols="50" wrap="soft"></textarea>
+	
+	<br> 
+
+	Key: <input type="text" id="Key" name="KeyField">
+
+	<br>
+
+	<button type="button" onclick="cipher('cipher')">Cipher Text</button>
+	<button type="button" onclick="cipher('decipher')">Decipher Text</button>
+</center>
