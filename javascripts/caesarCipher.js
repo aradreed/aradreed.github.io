@@ -2,11 +2,12 @@ window.addEventListener('load', setKeys);
 
 function cipher(mode) {
 	var caesarText = document.getElementById("CaesarText");
+	var text = "";
 	
 	if (mode == "cipher")
-		var text = caesar(+document.getElementById("KeyValue").value, caesarText.value);
+		text = caesar(caesarText.value, +document.getElementById("KeyValue").value);
 	else
-		var text = decaesar(+document.getElementById("KeyValue").value, caesarText.value);
+		text = decaesar(caesarText.value, +document.getElementById("KeyValue").value);
 		
 	caesarText.value = text;
 		
@@ -24,7 +25,7 @@ function setKeys() {
 	}
 }
 
-function caesar(key, text) {
+function caesar(text, key) {
 	var newString = "";
 	
 	for (var i = 0; i < text.length; i++) {
@@ -52,7 +53,7 @@ function caesar(key, text) {
 	return newString;
 }
 
-function decaesar(key, text) {
+function decaesar(text, key) {
 	var newString = ""
 	
 	for (var i = 0; i < text.length; i++) {
