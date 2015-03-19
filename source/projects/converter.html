@@ -1,0 +1,42 @@
+---
+layout: page
+title: "Binary-Decimal-ASCII Converter"
+comments: true
+sharing: true
+footer: true
+description: Convert between binary, decimal and ASCII values
+keywords: binary, decimal, ascii, convert, converter
+
+facebook:
+    image: http://aradreed.me/images/logo.jpg
+
+---
+
+<script src="../javascripts/converter.js"></script>
+
+		
+<style type="text/css">
+textarea {
+   font-size: 15pt;
+   font-family: Arial;
+} 
+</style>
+
+	<center>
+		
+		Enter in binary, decimal, or a character to convert to the corresponding values. 
+		
+		<br>
+		<h2>Characters</h2>
+		<textarea id="charText" name="charText" rows="3" cols="50" wrap="soft"></textarea>
+		<br>
+		<h2>Binary</h2>
+		<textarea id="binaryText" name="binaryText" rows="3" cols="50" wrap="soft"></textarea>
+		<br>
+		<h2>Decimal</h2>
+		<textarea id="decimalText" name="decimalText" rows="3" cols="50" wrap="soft"></textarea>
+				
+		<br>
+		
+		<button type="button" onclick="reset()">Reset</button>
+	</center>
