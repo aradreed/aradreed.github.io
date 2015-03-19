@@ -109,70 +109,77 @@
   
   <url>
     <loc>http://aradreed.me/404.html</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://aradreed.me/projects/caesarcipher.html</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://aradreed.me/projects/converter.html</loc>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://aradreed.me/projects/fallball.html</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://aradreed.me/blog/</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://aradreed.me/projects/</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://aradreed.me/blog/archives/</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://aradreed.me/contact/</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://aradreed.me/</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
+    <loc>http://aradreed.me/contact/</loc>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://aradreed.me/projects/</loc>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
     <loc>http://aradreed.me/projects/sizesquared.html</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://aradreed.me/projects/vigenerecipher.html</loc>
-    <lastmod>2015-03-18T00:37:43-07:00</lastmod>
+    <lastmod>2015-03-19T00:27:39-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
