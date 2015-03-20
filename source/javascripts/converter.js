@@ -17,6 +17,12 @@ window.onload = function () {
 	}
 
 	binTxt.onkeyup = function(){
+		var regex = /[^[0-1]]*/;
+		
+		if (binTxt.value.match(regex)) {
+			binTxt.value = binTxt.value.replace(regex, "");
+		}
+		
 	    convertBinary();
 	}
 
