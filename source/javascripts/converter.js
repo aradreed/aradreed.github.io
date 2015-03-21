@@ -17,7 +17,7 @@ window.onload = function () {
 	}
 
 	binTxt.onkeyup = function(){
-		var regex = /[^[0-1]]*/;
+		var regex = /[^[0-1|\s]]*/;
 		
 		if (binTxt.value.match(regex)) {
 			binTxt.value = binTxt.value.replace(regex, "");
@@ -27,6 +27,12 @@ window.onload = function () {
 	}
 
 	decTxt.onkeyup = function(){
+		var regex = /[^[0-9|\s]]*/;
+		
+		if (decTxt.value.match(regex)) {
+			decTxt.value = decTxt.value.replace(regex, "");
+		}
+		
 	    convertDecimal();
 	}
 };
