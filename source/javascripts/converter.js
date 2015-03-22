@@ -1,8 +1,3 @@
-/*
-Add option to remove whitespace in strings (separate by spaces in decimal and binary instead of showing value)
-Filter input. Chars take nearly anything. Binary only takes 1 and 0 (and spaces), decimal only takes nums
-*/
-
 var charTxt;
 var binTxt;
 var decTxt;
