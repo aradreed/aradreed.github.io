@@ -1,8 +1,3 @@
-/*
-Add option to remove whitespace in strings (separate by spaces in decimal and binary instead of showing value)
-Filter input. Chars take nearly anything. Binary only takes 1 and 0 (and spaces), decimal only takes nums
-*/
-
 var charTxt;
 var binTxt;
 var decTxt;
@@ -17,10 +12,22 @@ window.onload = function () {
 	}
 
 	binTxt.onkeyup = function(){
+		var regex = /[^[0-1|\s]]*/;
+		
+		if (binTxt.value.match(regex)) {
+			binTxt.value = binTxt.value.replace(regex, "");
+		}
+		
 	    convertBinary();
 	}
 
 	decTxt.onkeyup = function(){
+		var regex = /[^[0-9|\s]]*/;
+		
+		if (decTxt.value.match(regex)) {
+			decTxt.value = decTxt.value.replace(regex, "");
+		}
+		
 	    convertDecimal();
 	}
 };
